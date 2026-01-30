@@ -1,2 +1,8 @@
 # python-practice
-python 연습
+
+python 연습 저장소
+
+
+
+\#Test
+
