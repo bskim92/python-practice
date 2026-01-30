@@ -1,4 +1,4 @@
-# python template 1
+# python template 12
 def test():
 	pass
 
